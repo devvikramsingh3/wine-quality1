@@ -1,1 +1,468 @@
 [2025-02-26 17:44:17,083: INFO: main: welcome to ml project]
+[2025-03-24 12:06:20,596: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-24 12:06:20,604: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-24 12:06:20,612: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-24 12:06:20,614: INFO: common: created directory at: artifacts]
+[2025-03-24 12:06:20,616: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-24 12:06:22,094: INFO: 3855283261: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: FACA:1E2C6A:1614DD:3E4933:67E0FD64
+Accept-Ranges: bytes
+Date: Mon, 24 Mar 2025 06:36:20 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21741-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1742798181.584099,VS0,VE364
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 9c686e433e1738637fb5708637b2ee5135b9d51e
+Expires: Mon, 24 Mar 2025 06:41:20 GMT
+Source-Age: 0
+
+]
+[2025-03-24 12:27:36,668: INFO: main: welcome to ml project]
+[2025-03-24 12:28:19,464: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-03-24 12:28:19,464: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-24 12:28:19,464: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-24 12:28:19,464: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-24 12:28:19,464: INFO: common: created directory at: artifacts]
+[2025-03-24 12:28:19,464: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-24 12:28:20,302: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: FACA:1E2C6A:1614DD:3E4933:67E0FD64
+Accept-Ranges: bytes
+Date: Mon, 24 Mar 2025 06:58:19 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21731-DEL
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1742799499.946964,VS0,VE270
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 79a8cebbde0bc9135067085a1390adc8424a3803
+Expires: Mon, 24 Mar 2025 07:03:19 GMT
+Source-Age: 0
+
+]
+[2025-03-24 12:28:20,302: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-03-24 15:22:38,046: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-03-24 15:22:38,046: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-24 15:22:38,046: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-24 15:22:38,046: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-24 15:22:38,046: INFO: common: created directory at: artifacts]
+[2025-03-24 15:22:38,053: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-24 15:22:38,836: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 21FE:1C848C:3A4C00:99F058:67E12B65
+Accept-Ranges: bytes
+Date: Mon, 24 Mar 2025 09:52:37 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21736-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1742809958.560714,VS0,VE296
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: f589e1507f2f88b6ad211ff8fd4925ea5a91ac2e
+Expires: Mon, 24 Mar 2025 09:57:37 GMT
+Source-Age: 0
+
+]
+[2025-03-24 15:22:38,843: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-03-24 15:22:38,843: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2025-03-24 15:22:38,843: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-24 15:22:38,843: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-24 15:22:38,849: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-24 15:22:38,849: INFO: common: created directory at: artifacts]
+[2025-03-24 15:22:38,849: ERROR: main: "'ConfigBox' object has no attribute 'data_validation'"]
+Traceback (most recent call last):
+  File "C:\Users\devvi\miniconda3\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'data_validation'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\devvi\miniconda3\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\devvi\miniconda3\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'data_validation'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\devvi\miniconda3\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'data_validation'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\devvi\miniconda3\Lib\site-packages\box\config_box.py", line 28, in __getattr__
+    return super().__getattr__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\devvi\miniconda3\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'data_validation'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\devvi\miniconda3\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'data_validation'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\devvi\miniconda3\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\devvi\miniconda3\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'data_validation'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\devvi\miniconda3\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'data_validation'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\devvi\OneDrive\Desktop\wine-quality1\main.py", line 41, in <module>
+    data_ingestion.main()
+  File "c:\users\devvi\onedrive\desktop\wine-quality1\src\mlProject\pipeline\stage_02_data_validation.py", line 14, in main
+    data_validation_config = config.get_data_validation_config()
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\users\devvi\onedrive\desktop\wine-quality1\src\mlProject\config\configuration.py", line 38, in get_data_validation_config
+    config = self.config.data_validation
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\devvi\miniconda3\Lib\site-packages\box\config_box.py", line 30, in __getattr__
+    return super().__getattr__(item.lower())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\devvi\miniconda3\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'data_validation'"
+[2025-03-24 15:31:30,398: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-03-24 15:31:30,406: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-24 15:31:30,406: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-24 15:31:30,414: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-24 15:31:30,414: INFO: common: created directory at: artifacts]
+[2025-03-24 15:31:30,414: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-24 15:31:31,381: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 21FE:1C848C:3A4C00:99F058:67E12B65
+Accept-Ranges: bytes
+Date: Mon, 24 Mar 2025 10:01:30 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21740-DEL
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1742810490.076697,VS0,VE280
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 505697420bbfc978cc5f2bbfa2c77a2cfaa25bc3
+Expires: Mon, 24 Mar 2025 10:06:30 GMT
+Source-Age: 0
+
+]
+[2025-03-24 15:31:31,397: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-03-24 15:31:31,397: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2025-03-24 15:31:31,405: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-24 15:31:31,405: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-24 15:31:31,413: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-24 15:31:31,413: INFO: common: created directory at: artifacts]
+[2025-03-24 15:31:31,413: ERROR: main: "'ConfigBox' object has no attribute 'data_validation'"]
+Traceback (most recent call last):
+  File "C:\Users\devvi\miniconda3\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'data_validation'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\devvi\miniconda3\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\devvi\miniconda3\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'data_validation'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\devvi\miniconda3\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'data_validation'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\devvi\miniconda3\Lib\site-packages\box\config_box.py", line 28, in __getattr__
+    return super().__getattr__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\devvi\miniconda3\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'data_validation'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\devvi\miniconda3\Lib\site-packages\box\box.py", line 503, in __getitem__
+    return super().__getitem__(item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'data_validation'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\devvi\miniconda3\Lib\site-packages\box\box.py", line 536, in __getattr__
+    value = self.__getitem__(item, _ignore_default=True)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\devvi\miniconda3\Lib\site-packages\box\box.py", line 524, in __getitem__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'data_validation'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\devvi\miniconda3\Lib\site-packages\box\box.py", line 538, in __getattr__
+    value = object.__getattribute__(self, item)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ConfigBox' object has no attribute 'data_validation'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\devvi\OneDrive\Desktop\wine-quality1\main.py", line 41, in <module>
+    data_ingestion.main()
+  File "c:\users\devvi\onedrive\desktop\wine-quality1\src\mlProject\pipeline\stage_02_data_validation.py", line 14, in main
+    data_validation_config = config.get_data_validation_config()
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\users\devvi\onedrive\desktop\wine-quality1\src\mlProject\config\configuration.py", line 38, in get_data_validation_config
+    config = self.config.data_validation
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\devvi\miniconda3\Lib\site-packages\box\config_box.py", line 30, in __getattr__
+    return super().__getattr__(item.lower())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\devvi\miniconda3\Lib\site-packages\box\box.py", line 552, in __getattr__
+    raise BoxKeyError(str(err)) from _exception_cause(err)
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'data_validation'"
+[2025-03-24 15:47:57,990: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-03-24 15:47:57,990: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-24 15:47:57,998: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-24 15:47:57,998: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-24 15:47:57,998: INFO: common: created directory at: artifacts]
+[2025-03-24 15:47:58,004: INFO: common: created directory at: artifacts/data_validation]
+[2025-03-24 15:47:58,914: ERROR: main: [Errno 2] No such file or directory: 'artifacts/data_ingestion/data.zip']
+Traceback (most recent call last):
+  File "C:\Users\devvi\OneDrive\Desktop\wine-quality1\main.py", line 30, in <module>
+    data_ingestion.main()
+  File "c:\users\devvi\onedrive\desktop\wine-quality1\src\mlProject\pipeline\stage_01_data_ingestion.py", line 16, in main
+    data_ingestion.download_file()
+  File "c:\users\devvi\onedrive\desktop\wine-quality1\src\mlProject\components\data_ingestion.py", line 17, in download_file
+    filename, headers = request.urlretrieve(
+                        ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\devvi\miniconda3\Lib\urllib\request.py", line 250, in urlretrieve
+    tfp = open(filename, 'wb')
+          ^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_ingestion/data.zip'
+[2025-03-24 15:50:19,852: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-03-24 15:50:19,852: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-24 15:50:19,852: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-24 15:50:19,864: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-24 15:50:19,864: INFO: common: created directory at: artifacts]
+[2025-03-24 15:50:19,871: INFO: common: created directory at: artifacts/data_validation]
+[2025-03-24 15:50:20,421: ERROR: main: [Errno 2] No such file or directory: 'artifacts/data_ingestion/data.zip']
+Traceback (most recent call last):
+  File "C:\Users\devvi\OneDrive\Desktop\wine-quality1\main.py", line 30, in <module>
+    data_ingestion.main()
+  File "c:\users\devvi\onedrive\desktop\wine-quality1\src\mlProject\pipeline\stage_01_data_ingestion.py", line 16, in main
+    data_ingestion.download_file()
+  File "c:\users\devvi\onedrive\desktop\wine-quality1\src\mlProject\components\data_ingestion.py", line 17, in download_file
+    filename, headers = request.urlretrieve(
+                        ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\devvi\miniconda3\Lib\urllib\request.py", line 250, in urlretrieve
+    tfp = open(filename, 'wb')
+          ^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_ingestion/data.zip'
+[2025-03-25 10:38:12,605: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-03-25 10:38:12,605: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-25 10:38:12,605: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-25 10:38:12,612: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-25 10:38:12,612: INFO: common: created directory at: artifacts]
+[2025-03-25 10:38:12,612: INFO: common: created directory at: artifacts/data_validation]
+[2025-03-25 10:38:13,521: ERROR: main: [Errno 2] No such file or directory: 'artifacts/data_ingestion/data.zip']
+Traceback (most recent call last):
+  File "C:\Users\devvi\OneDrive\Desktop\wine-quality1\main.py", line 30, in <module>
+    data_ingestion.main()
+  File "c:\users\devvi\onedrive\desktop\wine-quality1\src\mlProject\pipeline\stage_01_data_ingestion.py", line 16, in main
+    data_ingestion.download_file()
+  File "c:\users\devvi\onedrive\desktop\wine-quality1\src\mlProject\components\data_ingestion.py", line 17, in download_file
+    filename, headers = request.urlretrieve(
+                        ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\devvi\miniconda3\Lib\urllib\request.py", line 250, in urlretrieve
+    tfp = open(filename, 'wb')
+          ^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_ingestion/data.zip'
+[2025-03-25 10:48:03,412: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-03-25 10:48:03,412: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-25 10:48:03,412: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-25 10:48:03,412: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-25 10:48:03,412: INFO: common: created directory at: artifacts]
+[2025-03-25 10:48:03,420: INFO: common: created directory at: artifacts/data_validation]
+[2025-03-25 10:48:04,383: ERROR: main: [Errno 2] No such file or directory: 'artifacts/data_ingestion/data.zip']
+Traceback (most recent call last):
+  File "C:\Users\devvi\OneDrive\Desktop\wine-quality1\main.py", line 30, in <module>
+    data_ingestion.main()
+  File "c:\users\devvi\onedrive\desktop\wine-quality1\src\mlProject\pipeline\stage_01_data_ingestion.py", line 16, in main
+    data_ingestion.download_file()
+  File "c:\users\devvi\onedrive\desktop\wine-quality1\src\mlProject\components\data_ingestion.py", line 17, in download_file
+    filename, headers = request.urlretrieve(
+                        ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\devvi\miniconda3\Lib\urllib\request.py", line 250, in urlretrieve
+    tfp = open(filename, 'wb')
+          ^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts/data_ingestion/data.zip'
+[2025-03-25 10:49:03,980: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-03-25 10:49:03,984: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-25 10:49:03,985: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-25 10:49:03,985: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-25 10:49:03,989: INFO: common: created directory at: artifacts]
+[2025-03-25 10:49:03,990: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-25 10:49:04,233: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 46E7:1B52C5:FA175:28EF15:67E23A3C
+Accept-Ranges: bytes
+Date: Tue, 25 Mar 2025 05:19:04 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21751-DEL
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1742879944.182526,VS0,VE2
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 65023204698a7c81043078b9ca8c70329aa3ac32
+Expires: Tue, 25 Mar 2025 05:24:04 GMT
+Source-Age: 60
+
+]
+[2025-03-25 10:49:04,241: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-03-25 10:52:53,761: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-25 10:52:53,777: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-25 10:52:53,785: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-25 10:52:53,785: INFO: common: created directory at: artifacts]
+[2025-03-25 10:58:19,993: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-25 10:58:19,993: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-25 10:58:19,993: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-25 10:58:19,993: INFO: common: created directory at: artifacts]
+[2025-03-25 10:59:33,751: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-25 10:59:33,751: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-25 10:59:33,759: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-25 10:59:33,763: INFO: common: created directory at: artifacts]
+[2025-03-25 11:10:12,047: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-25 11:10:12,055: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-25 11:10:12,055: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-25 11:10:12,055: INFO: common: created directory at: artifacts]
+[2025-03-25 11:10:15,553: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-25 11:10:15,553: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-25 11:10:15,561: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-25 11:10:15,561: INFO: common: created directory at: artifacts]
+[2025-03-25 11:51:24,288: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-25 11:51:24,296: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-25 11:51:24,296: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-25 11:51:24,304: INFO: common: created directory at: artifacts]
+[2025-03-25 11:51:25,091: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-25 11:51:25,099: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-25 11:51:25,099: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-25 11:51:25,099: INFO: common: created directory at: artifacts]
+[2025-03-25 11:51:25,547: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-25 11:51:25,547: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-25 11:51:25,555: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-25 11:51:25,555: INFO: common: created directory at: artifacts]
+[2025-03-25 11:51:26,078: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-25 11:51:26,078: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-25 11:51:26,078: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-25 11:51:26,087: INFO: common: created directory at: artifacts]
+[2025-03-25 11:51:39,539: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-25 11:51:39,539: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-25 11:51:39,547: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-25 11:51:39,547: INFO: common: created directory at: artifacts]
+[2025-03-25 16:19:37,182: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-25 16:19:37,182: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-25 16:19:37,192: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-25 16:19:37,192: INFO: common: created directory at: artifacts]
+[2025-03-25 16:19:43,560: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-25 16:19:43,568: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-25 16:19:43,576: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-25 16:19:43,576: INFO: common: created directory at: artifacts]
